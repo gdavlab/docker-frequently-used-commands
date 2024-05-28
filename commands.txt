@@ -1,0 +1,15 @@
+1- docker pull [IMAGE]
+
+2- docker run [OPTIONS] [IMAGE] [COMMAND]
+    OPTIONS: -d, --name, --rm, -e, --network, -v, -p
+
+3- docker ps [OPTIONS]
+    OPTIONS: -a 
+
+4- docker rm [OPTIONS] [CONTAINER]
+    OPTIONS: -f 
+
+5- docker exec [OPTIONS] [CONTAINER] [COMMAND]
+    OPTIONS:  -it,
+
+6- docker start|stop [CONTAINER]
